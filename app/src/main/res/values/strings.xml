@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Youtube clone coding</string>
+    <string name="bottomHomeText">홈</string>
 </resources>
